@@ -28,5 +28,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JacobJax&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobJax&layout=compact&show_icons=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobJax&show_icons=true&theme=radical">
