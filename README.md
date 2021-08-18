@@ -1,25 +1,25 @@
 ### **Hello World** 👋 
 
 
-# I'm Jacob Odero 🐼
-[<img src="https://img.icons8.com/color/40/000000/gmail-new.png"/>](malto:jackjax617@gmail.com)
-[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
-[<img src="https://img.icons8.com/fluency/36/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
+# I'm Jacob Odero
 
+[<img src="https://img.icons8.com/color/30/000000/gmail-new.png"/>](mailto:jackjax617@gmail.com)
+[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
+[<img src="https://img.icons8.com/fluency/26/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
 
-* 🚀 I'm Software Developer in the making still experimenting with various technologies. 
-* 🏫 I'm pursuing a Bachelor's degree in Business Information Technology.
+I'm a Junior software developer and a Software Engineer in the making mostly working with PHP and MySQL. Am also a student at Africa Nazarene University pursuing a Bachelor's degree in Business Information Technology. Moreover, am still exoerimenting with different tech stacks.
+
 * ☁ I'm currently learning Cloud computing
 * 🏗 Looking foward to building more exciting projects
 * 💬 Ask me about **PHP** or any Web/Software Development stuff
-* 📫 You can Reach me through **[my email](jackjax617@gmail.com)** or give me a call on **0729170437**
+* 📫 You can Reach me through **[my email](mailto:jackjax617@gmail.com)** or give me a call on **0729170437**
 
-* 😄 **Fun Fact:** **[The office](https://www.imdb.com/title/tt0386676/)** is my second best show right after **[F.R.I.E.N.D.S](https://www.imdb.com/title/tt0108778/)**
+> 😄 **Fun Fact:** **[The office](https://www.imdb.com/title/tt0386676/)** is my second best show right after **[F.R.I.E.N.D.S](https://www.imdb.com/title/tt0108778/)**
 
 <br>
 
 ### **Languages and technologies:**
-<img src="https://img.icons8.com/fluent/48/000000/google-logo.png"/><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/fluent/48/000000/command-line.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/fluent/48/000000/command-line.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 
 <br>
 
