@@ -4,7 +4,7 @@
 # I'm Jacob Odero 🐼
 [<img src="https://img.icons8.com/color/40/000000/gmail-new.png"/>](malto:jackjax617@gmail.com)
 [<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
-[<img src="https://img.icons8.com/fluency/36/000000/link.png"/>](https://github.com/JacobJax)
+[<img src="https://img.icons8.com/fluency/36/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
 
 
 * 🚀 I'm Software Developer in the making still experimenting with various technologies. 
