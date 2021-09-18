@@ -7,7 +7,7 @@
 [<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
 [<img src="https://img.icons8.com/fluency/26/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
 
-I'm a Junior software developer and a Software Engineer in the making mostly working with PHP and MySQL. Am also a student at Africa Nazarene University pursuing a Bachelor's degree in Business Information Technology. Moreover, am still experimenting with different tech stacks.
+I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also a student at Africa Nazarene University pursuing a Bachelor's degree in Business Information Technology. Moreover, am still experimenting with different tech stacks.
 
 * ☁ I'm currently learning Cloud computing
 * 🏗 Looking foward to building more exciting projects
