@@ -16,14 +16,11 @@ I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also
 
 
 > 😄 **Fun Fact:** **[The office](https://www.imdb.com/title/tt0386676/)** is my second best show right after **[F.R.I.E.N.D.S](https://www.imdb.com/title/tt0108778/)**
-
-
-<br>
+Edit readme
 
 ## Languages and technologies:
 <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript"/><img src="https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&logo=PHP"/><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python"/><img src="https://img.shields.io/badge/-Flask-yellowgreen?style=for-the-badge&logo=Flask"/><img src="https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=Java"/><img src="https://img.shields.io/badge/-C_sharp-9cf?style=for-the-badge&logo=C%20Sharp"/><img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git"/><img src="https://img.shields.io/badge/-Terminal-lightgrey?style=for-the-badge&logo=Windows%20Terminal"/><img src="https://img.shields.io/badge/-MySQL-important?style=for-the-badge&logo=MySQL"/><img src="https://img.shields.io/badge/-MS_SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server"/>
 
-<br>
 
 ## Github Stats
 
