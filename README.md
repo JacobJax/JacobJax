@@ -20,13 +20,11 @@ I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also
 
 <br>
 
-## **Languages and technologies:**
+## Languages and technologies:
 <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript"/><img src="https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&logo=PHP"/><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python"/><img src="https://img.shields.io/badge/-Flask-yellowgreen?style=for-the-badge&logo=Flask"/><img src="https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=Java"/><img src="https://img.shields.io/badge/-C_sharp-9cf?style=for-the-badge&logo=C%20Sharp"/><img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git"/><img src="https://img.shields.io/badge/-Terminal-lightgrey?style=for-the-badge&logo=Windows%20Terminal"/><img src="https://img.shields.io/badge/-MySQL-important?style=for-the-badge&logo=MySQL"/><img src="https://img.shields.io/badge/-MS_SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server"/>
 
 <br>
 
-<br>
+## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JacobJax&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobJax&layout=compact&show_icons=true&theme=radical">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=JacobJax&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobJax&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
