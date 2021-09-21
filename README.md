@@ -3,9 +3,9 @@
 
 # I'm Jacob Odero
 
-[<img src="https://img.shields.io/badge/-GMAIL-informational?style=for-the-badge&logo=gmail"/>](mailto:jackjax617@gmail.com)
-[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
-[<img src="https://img.icons8.com/fluency/26/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
+[<img src="https://img.shields.io/badge/-GMAIL-success?style=for-the-badge&logo=gmail"/>](mailto:jackjax617@gmail.com)
+[<img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
+[<img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=appveyor"/>](https://jacobjax.github.io/portfolio_website/)
 
 I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also a student at Africa Nazarene University pursuing a Bachelor's degree in Business Information Technology. Moreover, am still experimenting with different tech stacks.
 
@@ -20,8 +20,8 @@ I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also
 
 <br>
 
-### **Languages and technologies:**
-<img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/40/000000/css3.png"/><img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/><img src="https://img.icons8.com/officel/40/000000/php-logo.png"/><img src="https://img.icons8.com/color/40/000000/python--v1.png"/><img src="https://img.icons8.com/ios-filled/40/000000/flask.png"/><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/40/000000/git.png"/><img src="https://img.icons8.com/fluent/40/000000/command-line.png"/><img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png"/>
+## **Languages and technologies:**
+<img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript"/><img src="https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&logo=PHP"/><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python"/><img src="https://img.shields.io/badge/-Flask-yellowgreen?style=for-the-badge&logo=Flask"/><img src="https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=Java"/><img src="https://img.shields.io/badge/-C_sharp-9cf?style=for-the-badge&logo=C%20Sharp"/><img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git"/><img src="https://img.shields.io/badge/-Terminal-lightgrey?style=for-the-badge&logo=Windows%20Terminal"/><img src="https://img.shields.io/badge/-MySQL-important?style=for-the-badge&logo=MySQL"/><img src="https://img.shields.io/badge/-MS_SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server"/>
 
 <br>
 
