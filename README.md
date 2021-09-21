@@ -3,7 +3,7 @@
 
 # I'm Jacob Odero
 
-[<img src="https://img.icons8.com/color/30/000000/gmail-new.png"/>](mailto:jackjax617@gmail.com)
+[<img src="https://img.shields.io/badge/-GMAIL-informational?style=for-the-badge&logo=gmail"/>](mailto:jackjax617@gmail.com)
 [<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
 [<img src="https://img.icons8.com/fluency/26/000000/link.png"/>](https://jacobjax.github.io/portfolio_website/)
 
