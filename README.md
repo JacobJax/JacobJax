@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
 [<img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=appveyor"/>](https://jacobjax.github.io/portfolio_website/)
 
-I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also a student at Africa Nazarene University pursuing a Bachelor's degree in Business Information Technology. Moreover, am still experimenting with different tech stacks.
+I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also still experimenting with different tech stacks.
 
 * ☁ I'm currently learning Cloud computing
 * 🏗 Looking foward to building more exciting projects
