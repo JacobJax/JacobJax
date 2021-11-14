@@ -1,7 +1,7 @@
-### **Hello World** 👋 
+## **Hello World** 👋 
 
 
-# I'm Jacob Odero
+![](Cap.PNG)
 
 [<img src="https://img.shields.io/badge/-GMAIL-success?style=for-the-badge&logo=gmail"/>](mailto:jackjax617@gmail.com)
 [<img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
