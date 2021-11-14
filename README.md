@@ -26,7 +26,7 @@ I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also
 > 😄 **Fun Fact:** 
 >
 >**[The office](https://www.imdb.com/title/tt0386676/)** is my second best show right after **[F.R.I.E.N.D.S](https://www.imdb.com/title/tt0108778/)** .
-> Also, notice how most programming logos go so well with blue.👇🏿
+> Also, notice how programming logos go so well with blue.👇🏿
 
 
 ## Languages and technologies
