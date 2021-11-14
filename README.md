@@ -1,17 +1,17 @@
-## **Hello World** 👋 
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
 ![](Cap.PNG)
 
 <p align="center">
     <a href ="mailto:jackjax617@gmail.com">
-        <img src="https://img.shields.io/badge/-GMAIL-success?style=for-the-badge&logo=gmail"/>
+        <img src="https://img.shields.io/badge/-GMAIL-success?style=flat&logo=gmail"/>
     </a>
     <a href ="https://www.linkedin.com/in/jacob-odero-b649151b6">
-        <img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>
+        <img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=flat&logo=linkedin"/>
     </a>
     <a href ="https://jacobjax.github.io/portfolio_website/">
-        <img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=appveyor"/>
+        <img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=flat&logo=appveyor"/>
     </a>
 </p>
 
