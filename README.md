@@ -3,9 +3,17 @@
 
 ![](Cap.PNG)
 
-[<img src="https://img.shields.io/badge/-GMAIL-success?style=for-the-badge&logo=gmail"/>](mailto:jackjax617@gmail.com)
-[<img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/jacob-odero-b649151b6)
-[<img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=appveyor"/>](https://jacobjax.github.io/portfolio_website/)
+<p align="center">
+    <a href ="mailto:jackjax617@gmail.com">
+        <img src="https://img.shields.io/badge/-GMAIL-success?style=for-the-badge&logo=gmail"/>
+    </a>
+    <a href ="https://www.linkedin.com/in/jacob-odero-b649151b6">
+        <img src="https://img.shields.io/badge/-LINKEDIN-blueviolet?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href ="https://jacobjax.github.io/portfolio_website/">
+        <img src="https://img.shields.io/badge/-PORTFOLIO-ff69b4?style=for-the-badge&logo=appveyor"/>
+    </a>
+</p>
 
 I'm a Software Engineer in the making mostly working with PHP and MySQL. Am also still experimenting with different tech stacks.
 
